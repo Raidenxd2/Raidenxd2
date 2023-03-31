@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on PojavLauncher Community Edition
 
+[![Raidenxd2's GitHub stats](https://github-readme-stats.vercel.app/api?username=raidenxd2&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raidenxd2&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Raidenxd2/Raidenxd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
